@@ -1,0 +1,18 @@
+/*Dashboard edit nav*/
+
+.pb_delete_btn
+{
+	background:none;
+	border:none;
+	font-weight: bold;
+	color:#D50000;
+}	
+
+.pb_add_btn
+{
+	background:none;
+	border:none;
+	font-weight: bold;
+	color:#388E3C;
+	font-size:24px;
+}	
